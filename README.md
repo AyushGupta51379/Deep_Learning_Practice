@@ -26,9 +26,6 @@ Error Analysis using classification report and Confusion matrix: f1-score is low
 #### Try other models.
 
 
-# Deep_Learning_Practice
-Practicing my Deep learning skills - and improving them
-
 # Dogs vs Cats
 - Simple experiments on training model and testing on the popular Dogs vs Cats data set from Kaggle. 
 - Computer Vision for image classification, category - dogs, cats.

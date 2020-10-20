@@ -1,9 +1,9 @@
 # Deep_Learning_Practice
 Practicing my Deep learning skills - and improving them
 
-# MNIST - Computer Vision - handwritten digit recognition
+## MNIST - Computer Vision - handwritten digit recognition
 
-# Dogs vs Cats - Computer Vision - Image classification
+## Dogs vs Cats - Computer Vision - Image classification
 
 # MNIST -
 - Simple experiments on training model and testing on the popular MNIST data set. 

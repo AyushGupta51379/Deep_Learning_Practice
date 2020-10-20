@@ -1,7 +1,11 @@
 # Deep_Learning_Practice
 Practicing my Deep learning skills - and improving them
 
-# MNIST 
+# MNIST - Computer Vision - handwritten digit recognition
+
+# Dogs vs Cats - Computer Vision - Image classification
+
+# MNIST -
 - Simple experiments on training model and testing on the popular MNIST data set. 
 - Computer Vision for handwritten digit classification, single digits: 0 to 9.
 - Currently used a simple CNN - Convolutional Neural Network.
@@ -26,7 +30,7 @@ Error Analysis using classification report and Confusion matrix: f1-score is low
 #### Try other models.
 
 
-# Dogs vs Cats
+# Dogs vs Cats -
 - Simple experiments on training model and testing on the popular Dogs vs Cats data set from Kaggle. 
 - Computer Vision for image classification, category - dogs, cats.
 - Currently used a simple 2D CNN - Convolutional Neural Network.

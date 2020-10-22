@@ -11,7 +11,7 @@ I have uploaded my Python notebook in CNN/1, with name Dogs_vs_Cats_Classifier.i
 ## 2nd attempt
 I have uploaded my Python notebook in CNN/2, with name Dogs_vs_Cats_Classifier.ipynb. Note that you might need to click on reload a few times for github to properly display it, due to some issues of Github.
 
-### Simple CNN
+### Simple CNN with 3 Conv2D layers
 #### Train on 50% data and test on 50% data
 I understand that we could train on 80% data and test on 20% data. However, I want to see the robustness of my current CNN architecture - by training on less data than general and testing on more data than general. Thus, the 50-50 split. Later, we can use 80% train and 20% test split.
 #### Accuracy 

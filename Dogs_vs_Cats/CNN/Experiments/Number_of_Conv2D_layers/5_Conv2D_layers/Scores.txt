@@ -1,0 +1,19 @@
+Accuracy score: 
+0.89056
+
+Confusion matrix:
+array([[5996,  298],
+       [1070, 5136]])
+
+Cohen kappa score:
+0.7809186330265647
+
+Classification Report:
+               precision    recall  f1-score   support
+
+         Cat       0.85      0.95      0.90      6294
+         Dog       0.95      0.83      0.88      6206
+
+    accuracy                           0.89     12500
+   macro avg       0.90      0.89      0.89     12500
+weighted avg       0.90      0.89      0.89     12500
